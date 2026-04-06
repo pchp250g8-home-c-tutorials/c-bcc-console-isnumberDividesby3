@@ -1,5 +1,5 @@
-IsNumberDividesBy3. C Tutorials. Microsoft Visual Studio IDE. Simple Input/Output. Algorithms. Console application. 
-A console application project written in the C programming language and implemented in the Microsoft Visual Studio integrated environment. 
+IsNumberDividesBy3. C Tutorials. Embarcadero Rad Studio IDE. Simple Input/Output. Algorithms. Console application. 
+A console application project written in the C programming language and implemented in the Embarcadero Rad Studio IDE integrated environment. 
 The Win32 Console system provides simple input/output. Determining the sum of digits in a number entered from the keyboard.
 Answer to the question whether a given number is divisible by 3.
 The program does the following:
@@ -18,8 +18,8 @@ The program does the following:
 
 
 
-IsNumberDividesBy3. ИС Visual Studio. Занятия по C. Простой Ввод/Вывод. Алгоритмы. Платформа Windows. Консольное приложение.
-Проект консольного приложения написан на языке программирования C и реализован в интегрированной среде Microsoft Visual Studio. 
+IsNumberDividesBy3. ИС Rad Studio. Занятия по C. Простой Ввод/Вывод. Алгоритмы. Платформа Windows. Консольное приложение.
+Проект консольного приложения написан на языке программирования C и реализован в интегрированной среде Embarcadero Rad Studio. 
 Платформа Windows. Простой ввод-вывод. Определение суммы цифр в числе, введённом с клавиатуры. 
 Ответ на вопрос делится ли данное число на 3. 
 Данная программа делает следующее:
